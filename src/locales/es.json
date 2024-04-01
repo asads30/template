@@ -1,0 +1,378 @@
+{
+  "header": {
+    "search": "Buscar...",
+    "mega_menu": "Mega menú",
+    "notifications": {
+      "title": "Notificaciones",
+      "view_all": "Ver todo",
+      "new": "Nuevo",
+      "earlier": "Más temprano",
+      "load_more": "Ver más..",
+      "first": {
+        "title": "Se realiza tu pedido",
+        "text": "Si varios idiomas fusionan la gramática",
+        "time": "Hace 3 minutos"
+      },
+      "second": {
+        "title": "James Lemire",
+        "text": "Parecerá un inglés simplificado.",
+        "time": "Hace 1 hora"
+      },
+      "third": {
+        "title": "Tu artículo es enviado",
+        "text": "Si varios idiomas fusionan la gramática",
+        "time": "Hace 3 minutos"
+      },
+      "four": {
+        "title": "Salena Layfield",
+        "text": "Como un escéptico amigo mío occidental de Cambridge.",
+        "time": "Hace 1 hora"
+      }
+    },
+    "dashboards": {
+      "text": "Cuadros de mando",
+      "list": {
+        "sales": "Ventas",
+        "analytics": "Analítica"
+      }
+    },
+    "apps": {
+      "text": "Aplicaciones"
+    },
+    "components": {
+      "text": "Componentes"
+    },
+    "extrapages": {
+      "text": "Páginas extra"
+    },
+    "authentication": {
+      "text": "Autenticación",
+      "badge": "nueve",
+      "list": {
+        "basic": "Básico",
+        "cover": "Cubrir",
+        "signin": "Registrarse",
+        "signup": "Inscribirse",
+        "signout": "Desconectar",
+        "lockscreen": "Bloquear pantalla",
+        "forgotpassword": "Has olvidado tu contraseña",
+        "resetpwd": "Restablecer la contraseña",
+        "emailverification": "verificacion de email",
+        "twostepverification": "Verificación en dos pasos",
+        "thankyou": "Gracias"
+      }
+    },
+    "errorspages": {
+      "text": "Páginas de errores",
+      "list": {
+        "400": "cuatrocientos cuatro",
+        "500": "quinientos",
+        "basic": "Básico",
+        "cover": "Cubrir"
+      }
+    },
+    "profilewidget": {
+      "profile": "Perfil",
+      "message": "Mensajes",
+      "taskboard": "Tablero de tareas",
+      "help": "Ayudar",
+      "balance": "Equilibrio :",
+      "settings": "Ajustes",
+      "lockscreen": "Bloquear pantalla",
+      "logout": "Cerrar sesión"
+    }
+  },
+  "topbar": {
+    "component": {
+      "text": "Componentes",
+      "list": {
+        "alerts": "Alertas",
+        "buttons": "Botones",
+        "cards": "Tarjetas",
+        "dropdowns": "Listas deplegables",
+        "lightbox": "Caja ligera",
+        "modals": "Modales",
+        "rangeslider": "Control deslizante de rango",
+        "progressbars": "Barras de progreso",
+        "sweetalerts": "Alerta dulce",
+        "tabs&accodions": "Pestañas y acordeones",
+        "typography": "Tipografía",
+        "general": "General",
+        "rating": "Clasificación",
+        "notifications": "Notificaciones"
+      }
+    },
+    "categories": {
+      "text": "Categorías",
+      "list": {
+        "computersaccessories": "Computadoras y accesorios",
+        "laptopstablets": "Computadoras portátiles y tabletas",
+        "desktopcomputers": "Computadores de escritorio",
+        "networkingproducts": "Productos de red (NAS)",
+        "monitors": "Monitores",
+        "bags": "Bolsos, fundas y mangas",
+        "batteries": "Pilas",
+        "charges": "Cargas y adaptadores",
+        "smartphones": "Teléfonos inteligentes y tabletas",
+        "appleiphone": "Apple iPhone",
+        "android": "Smartphones Android",
+        "phablets": "Phablets",
+        "appleipad": "IPad de Apple",
+        "androidtablets": "Tabletas Android",
+        "tablets": "Tabletas con teclado",
+        "television": "Televisión y Video",
+        "tv": "Sets de televisión",
+        "home": "Sistemas de cine en casa",
+        "dvdplayers": "Reproductores y grabadores de DVD",
+        "dvdvcr": "Combinaciones de DVD-VCR",
+        "projectors": "Proyectores",
+        "projectionscreens": "Pantallas de proyección",
+        "satelite": "Televisión satelital",
+        "cameras": "Cámaras, Foto y Video",
+        "point": "Cámaras digitales para apuntar y disparar",
+        "dslrcameras": "Cámaras DSLR",
+        "mirrorless": "Cámaras sin espejo",
+        "body": "Cámaras montadas en el cuerpo",
+        "cameralenses": "Lentes de cámara",
+        "videostudio": "Estudio de video"
+      }
+    }
+  },
+  "menuitems": {
+    "dashboards": {
+      "text": "tableros"
+    },
+    "sales": {
+      "text": "Ventas",
+      "badge": "cinco"
+    },
+    "analytics": {
+      "text": "Analítica"
+    },
+    "applications": {
+      "text": "APLICACIONES"
+    },
+    "calendar": {
+      "text": "Calendario"
+    },
+    "chat": {
+      "text": "Chat",
+      "badge": "caliente"
+    },
+    "kanbanboard": {
+      "text": "Tablero Kanban"
+    },
+    "filemanager": {
+      "text": "Administrador de archivos"
+    },
+    "email": {
+      "text": "Correo electrónico",
+      "list": {
+        "inbox": "Bandeja de entrada",
+        "reademail": "Leer el correo electrónico"
+      }
+    },
+    "contacts": {
+      "text": "Contactos",
+      "list": {
+        "usergrid": "Cuadrícula de usuario",
+        "userlist": "Lista de usuarios",
+        "settings": "Ajustes de usuario"
+      }
+    },
+    "gallery": {
+      "text": "Galería"
+    },
+    "projects": {
+      "text": "Proyectos",
+      "list": {
+        "projectsgrid": "Proyecto Grid",
+        "projectslist": "Lista de proyectos",
+        "projectsoverview": "Descripción del proyecto",
+        "createnew": "Crear nuevo"
+      }
+    },
+    "pages": {
+      "text": "Paginas"
+    },
+
+    "apps": {
+      "text": "Aplicaciones",
+      "list": {
+        "invoices": "Facturas",
+        "invoicelist": "Lista de facturas",
+        "invoicedetail": "Detalle de la factura",
+        "contacts": "Contactos",
+        "usergrid": "Cuadrícula de usuario",
+        "userlist": "Lista de usuarios",
+        "profile": "Perfil"
+      }
+    },
+    "authentication": {
+      "text": "Autenticación",
+      "badge": "nueve",
+      "list": {
+        "signin": "Registrarse",
+        "basic": "Básico",
+        "cover": "Cubrir",
+        "signup": "Inscribirse",
+        "signout": "Desconectar",
+        "lockscreen": "Bloquear pantalla",
+        "forgotpassword": "Has olvidado tu contraseña",
+        "resetpwd": "Restablecer la contraseña",
+        "emailverification": "verificacion de email",
+        "twostepverification": "Verificación en dos pasos",
+        "thankyou": "Gracias"
+      }
+    },
+    "errorspages": {
+      "text": "Páginas de errores",
+      "list": {
+        "404basic": "404 Básico",
+        "404cover": "404 cubierta",
+        "500basic": "500 Básico",
+        "500cover": "500 cubierta"
+      }
+    },
+    "utility": {
+      "text": "Utilidad",
+      "list": {
+        "starter": "Página de inicio",
+        "profile": "Perfil",
+        "maintenance": "Mantenimiento",
+        "comingsoon": "Próximamente, en breve, pronto",
+        "faqs": "Preguntas frecuentes"
+      }
+    },
+    "pricing": {
+      "text": "Precios",
+      "list": {
+        "basic": "Básico",
+        "table": "Mesa"
+      }
+    },
+    "invoices": {
+      "text": "Facturas",
+      "list": {
+        "invoicelist": "Lista de facturas",
+        "invoicedetail": "Detalle de la factura"
+      }
+    },
+    "timeline": {
+      "text": "Cronología",
+      "list": {
+        "centerview": "Vista de centro",
+        "leftview": "Vista izquierda",
+        "horizontalview": "Vista horizontal"
+      }
+    },
+    "components": {
+      "text": "COMPONENTES"
+    },
+    "uielements": {
+      "text": "Elementos de la interfaz de usuario",
+      "list": {
+        "alerts": "Alertas",
+        "buttons": "Botones",
+        "cards": "Tarjetas",
+        "carousel": "Carrusel",
+        "dropdowns": "Listas deplegables",
+        "grid": "Red",
+        "images": "Imagenes",
+        "modals": "Modales",
+        "progressbar": "Barras de progreso",
+        "tabs": "Pestañas y acordeones",
+        "typography": "Tipografía",
+        "video": "Video",
+        "general": "General",
+        "colors": "Colores",
+        "utilities": "Utilidades"
+      }
+    },
+    "extended": {
+      "text": "IU extendida",
+      "list": {
+        "lightbox": "Caja ligera",
+        "rangeslider": "Control deslizante de rango",
+        "sweetalert": "SweetAlert 2",
+        "rating": "Clasificación",
+        "notification": "Notificaciones",
+        "swiperslider": "Control deslizante Swiper"
+      }
+    },
+    "widgets": {
+      "text": "Widgets"
+    },
+    "forms": {
+      "text": "Formularios",
+      "list": {
+        "elements": "Elementos basicos",
+        "validation": "Validación",
+        "advanced": "Complemento avanzado",
+        "editor": "Editores",
+        "fileupload": "Subir archivo",
+        "wizard": "Mago",
+        "mask": "Máscara"
+      }
+    },
+    "tables": {
+      "text": "Mesas",
+      "list": {
+        "basic": "Bootstrap básico",
+        "advancedtables": "Tablas avanzadas"
+      }
+    },
+    "apexcharts": {
+      "text": "Gráficos de Apex",
+      "list": {
+        "line": "Línea",
+        "area": "Zona",
+        "column": "Columna",
+        "bar": "Bar",
+        "mixed": "Mezclado",
+        "timeline": "Cronología",
+        "candlestick": "Candelero",
+        "boxplot": "Diagrama de caja",
+        "bubble": "Burbuja",
+        "scatter": "Dispersión",
+        "heatmap": "Mapa de calor",
+        "treemap": "Mapa de árbol",
+        "pie": "Tarta",
+        "radialbar": "Barra radial",
+        "radar": "Radar",
+        "polararea": "Polararea"
+      }
+    },
+    "icons": {
+      "text": "Iconos",
+      "list": {
+        "unicons": "Unicons",
+        "feathericons": "Iconos de plumas",
+        "boxicons": "Boxicons",
+        "materialdesign": "Diseño de materiales",
+        "fontawesome": "Fuente impresionante"
+      }
+    },
+    "maps": {
+      "text": "Mapas",
+      "list": {
+        "googlemap": "Google",
+        "leaflet": "Folleto",
+        "vector": "Vector"
+      }
+    },
+    "multilevel": {
+      "text": "Multi nivel",
+      "list": {
+        "level1": {
+          "1": "Nivel 1.1",
+          "2": "Nivel 1.2",
+          "level2": {
+            "1": "Nivel 2.1",
+            "2": "Nivel 2.2"
+          }
+        }
+      }
+    }
+  }
+}

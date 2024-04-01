@@ -1,0 +1,174 @@
+//
+// choices
+//
+@import "~choices.js/public/assets/styles/choices.min.css";
+
+.choices__inner {
+  padding: 0.25rem ($form-select-padding-x + $form-select-indicator-padding) 0.25rem 0.5rem !important;
+  background-color: $form-select-bg !important;
+  vertical-align: middle !important;
+  border-radius: $form-select-border-radius !important;
+  border: $form-select-border-width solid $form-select-border-color !important;
+  min-height: 38px !important;
+}
+
+.choices[data-type*=select-one] {
+  .choices__inner {
+    padding-bottom: 0.25rem;
+  }
+
+  &:after {
+    border: 0 !important;
+    border-color: $dark transparent transparent !important;
+    right: 11.5px !important;
+    left: auto !important;
+    content: "\F0140" !important;
+    font-family: 'Material Design Icons';
+    width: auto !important;
+    height: auto !important;
+    margin-top: 0 !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+  }
+
+  &.is-open:after {
+    margin-top: 0;
+    transform: translateY(-50%) rotate(-180deg);
+  }
+
+  .choices__button {
+    right: 0;
+    left: auto;
+    margin-right: 25px;
+    margin-left: 0;
+  }
+}
+
+.choices__input {
+  background-color: $input-bg !important;
+  margin-bottom: 0 !important;
+}
+
+.choices__list--multiple {
+  display: inline-flex !important;
+  flex-wrap: wrap !important;
+  gap: 6px !important;
+
+  .choices__item {
+    background-color: $primary !important;
+    border-color: $primary !important;
+    margin-bottom: 0 !important;
+    margin-right: 0 !important;
+    font-weight: $font-weight-normal !important;
+
+    &.is-highlighted {
+      background-color: $primary;
+      border: 1px solid $primary;
+    }
+  }
+}
+
+.choices.is-disabled {
+
+  .choices__inner,
+  .choices__input {
+    background-color: $light;
+  }
+}
+
+.is-open,
+.is-focused {
+  .choices__inner {
+    border-color: $input-focus-border-color;
+  }
+}
+
+.is-disabled .choices__list--multiple {
+  .choices__item {
+    background-color: $secondary;
+    border-color: $secondary;
+  }
+}
+
+.choices[data-type*=select-multiple],
+.choices[data-type*=text] {
+  .choices__button {
+    border-left: 1px solid rgba($white, 0.5) !important;
+    margin: 0 -4px 0 8px;
+    border-right: 0;
+  }
+}
+
+.choices__list--dropdown {
+  border-color: $dropdown-border-color !important;
+  box-shadow: $dropdown-box-shadow !important;
+
+  .choices__item--selectable.is-highlighted {
+    background-color: $dropdown-link-hover-bg;
+  }
+}
+
+.is-open {
+  .choices__list--dropdown {
+    border-color: $dropdown-border-color !important;
+  }
+}
+
+
+// Dark layout
+
+body[data-layout-mode="dark"] {
+  .choices__inner {
+    color: $gray-dark-500 !important;
+    background-color: lighten($gray-dark-200, 2%) !important;
+    border: 1px solid $gray-dark-300 !important;
+  }
+
+  .choices__input {
+    background-color: lighten($gray-dark-200, 2%) !important;
+    color: $gray-dark-500 !important;
+
+    &::placeholder {
+      color: $gray-dark-400;
+    }
+  }
+
+  .choices__heading{
+    border-bottom-color: $gray-dark-300 !important;
+  }
+
+  .choices[data-type*=select-one] {
+    &:after {
+      border-color: $gray-dark-500 transparent transparent !important;
+    }
+
+    &.is-open:after {
+      border-color: transparent transparent $gray-dark-500 !important;
+    }
+
+    .choices__input {
+      background-color: lighten($gray-dark-200, 2%);
+      border: 1px solid $gray-dark-300;
+      color: $gray-dark-500;
+    }
+  }
+
+  .choices__list--dropdown {
+    background-color: lighten($gray-dark-200, 2%) !important;
+    border-color: $gray-dark-300 !important;
+
+    .choices__item--selectable {
+      &.is-highlighted {
+        background-color: $gray-dark-300 !important;
+      }
+    }
+  }
+
+  .choices.is-disabled {
+
+    .choices__inner,
+    .choices__input {
+      background-color: lighten($gray-dark-200, 2%) !important;
+    }
+  }
+}

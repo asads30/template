@@ -1,0 +1,166 @@
+/**
+ * Custom styles
+ */
+
+@import "~swiper/swiper-bundle.min.css";
+
+@import '~vuevectormap/src/scss/VueVectorMap.scss';
+@import '~leaflet/dist/leaflet.css';
+@import "~simplebar/dist/simplebar.min.css";
+
+body {
+    * {
+        outline: none;
+        box-shadow: none;
+    }
+}
+
+// Modal
+.modal-backdrop {
+    opacity: .5;
+}
+
+.dropdown-toggle-split {
+    &::before {
+        content: "\F0140";
+        display: inline-block;
+        font: normal normal normal 24px/1 "Material Design Icons";
+        font-size: inherit;
+        text-rendering: auto;
+        line-height: inherit;
+    }
+}
+
+.dropup {
+    .dropdown-toggle-split {
+        &::before {
+            content: "\F0143";
+            display: inline-block;
+            font: normal normal normal 24px/1 "Material Design Icons";
+            font-size: inherit;
+            text-rendering: auto;
+            line-height: inherit;
+        }
+    }
+}
+
+.dropright .dropdown-toggle-split {
+    &::before {
+        content: "\F0142";
+        display: inline-block;
+        font: normal normal normal 24px/1 "Material Design Icons";
+        font-size: inherit;
+        text-rendering: auto;
+        line-height: inherit;
+    }
+}
+
+.modal-header,
+.alert {
+    .close {
+        padding: 0.3rem 1.75rem;
+        background: transparent;
+        border: 0;
+        font-size: 25px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        opacity: .4;
+        width: 1em;
+        height: 1em;
+        z-index: 2;
+
+        button {
+            display: none;
+        }
+    }
+}
+
+// rating
+
+.vue-star-rating {
+    display: inline-block !important
+}
+
+.symbol {
+    border-color: $card-bg;
+}
+
+.rating-symbol-background,
+.rating-symbol-foreground {
+    font-size: 24px;
+}
+
+.rating-symbol-foreground {
+    top: 0px;
+}
+
+// advanced table
+
+.datatables {
+    thead {
+        tr {
+            th {
+                position: relative;
+
+                &:before {
+                    content: "\F0143";
+                    position: absolute;
+                    right: 0;
+                    top: 7px;
+                    font: normal normal normal 24px/1 "Material Design Icons";
+                    opacity: 0.3;
+                }
+
+                &:after {
+                    content: "\F0140";
+                    position: absolute;
+                    right: 0;
+                    top: 14px;
+                    opacity: 0.3;
+                    font: normal normal normal 24px/1 "Material Design Icons";
+                }
+            }
+
+            [aria-sort="ascending"] {
+                &:before {
+                    opacity: 1;
+                }
+            }
+
+            [aria-sort="descending"]  {
+                &:after {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+// chat page
+.chat-leftsidebar-nav {
+    margin-top: -36px;
+}
+
+//
+
+// .swiper-arrow.arrow-sm {
+
+//     .swiper-button-prev,
+//     .swiper-button-next {
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         font-size: 20px;
+
+//         // &::after {
+//         //     display: none;
+//         // }
+//     }
+// }
+
+// icons
+
+.feather {
+    vertical-align: middle;
+}

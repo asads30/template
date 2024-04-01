@@ -1,0 +1,89 @@
+{
+  "name": "dashonic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "lint": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^22.0.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.3",
+    "@fullcalendar/bootstrap": "^5.9.0",
+    "@fullcalendar/core": "^5.9.0",
+    "@fullcalendar/daygrid": "^5.9.0",
+    "@fullcalendar/interaction": "^5.9.0",
+    "@fullcalendar/list": "^5.9.0",
+    "@fullcalendar/timegrid": "^5.9.0",
+    "@fullcalendar/vue": "^5.9.0",
+    "apexcharts": "^3.27.3",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
+    "bootstrap-vue": "^2.21.2",
+    "choices.js": "^9.0.1",
+    "core-js": "^3.6.5",
+    "feather-icons": "^4.28.0",
+    "firebase": "^9.0.1",
+    "jsvectormap": "^1.3.3",
+    "leaflet": "^1.7.1",
+    "metismenujs": "^1.2.1",
+    "moment": "^2.29.1",
+    "sass": "~1.32.12",
+    "sass-loader": "^10.1.0",
+    "simplebar-vue": "^1.6.7",
+    "sweetalert2": "^11.1.4",
+    "swiper": "^6.5.6",
+    "v-click-outside": "^3.1.2",
+    "v-mask": "^2.2.4",
+    "vue": "^2.6.14",
+    "vue-alertify": "^1.1.0",
+    "vue-apexcharts": "^1.6.2",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-easy-lightbox": "^0.16.1",
+    "vue-feather": "^1.1.1",
+    "vue-flatpickr-component": "^8.1.7",
+    "vue-i18n": "^8.25.0",
+    "vue-meta": "^2.4.0",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.5.2",
+    "vue-slide-bar": "^1.2.0",
+    "vue-star-rating": "^1.7.0",
+    "vue-verification-code-input": "^1.0.0",
+    "vue2-dropzone": "^3.6.0",
+    "vue2-google-maps": "^0.10.7",
+    "vue2-leaflet": "^2.7.1",
+    "vuedraggable": "^2.24.3",
+    "vuelidate": "^0.7.6",
+    "vuevectormap": "^1.0.9",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

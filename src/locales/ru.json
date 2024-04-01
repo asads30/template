@@ -1,0 +1,377 @@
+{
+  "header": {
+    "search": "Поиск...",
+    "mega_menu": "Мега Меню",
+    "notifications": {
+      "title": "Уведомления",
+      "new": "Новый",
+      "earlier": "Ранее",
+      "view_all": "Посмотреть все",
+      "load_more": "Посмотреть больше..",
+      "first": {
+        "title": "Ваш заказ размещен",
+        "text": "Если несколько языков объединяют грамматику",
+        "time": "3 минуты назад"
+      },
+      "second": {
+        "title": "Джеймс Лемир",
+        "text": "Это будет похоже на упрощенный английский.",
+        "time": "1 час назад"
+      },
+      "third": {
+        "title": "Ваш товар отправлен",
+        "text": "Если несколько языков объединяют грамматику",
+        "time": "3 минуты назад"
+      },
+      "four": {
+        "title": "Салена Лэйфилд",
+        "text": "Как скептически настроенный мой кембриджский друг с Запада.",
+        "time": "10 часов назад"
+      }
+    },
+    "dashboards": {
+      "text": "Дашборды",
+      "list": {
+        "sales": "Продажи",
+        "analytics": "Аналитика"
+      }
+    },
+    "apps": {
+      "text": "Программы"
+    },
+    "components": {
+      "text": "Составные части"
+    },
+    "extrapages": {
+      "text": "Дополнительные страницы"
+    },
+    "authentication": {
+      "text": "Аутентификация",
+      "badge": "девять",
+      "list": {
+        "basic": "Базовый",
+        "cover": "Обложка",
+        "signin": "Войти",
+        "signup": "Зарегистрироваться",
+        "signout": "Выход",
+        "lockscreen": "Экран блокировки",
+        "forgotpassword": "Забыли пароль",
+        "resetpwd": "Сброс пароля",
+        "emailverification": "подтверждение адреса электронной почты",
+        "twostepverification": "Двухэтапная аутентификация",
+        "thankyou": "Спасибо"
+      }
+    },
+    "errorspages": {
+      "text": "Страницы ошибок",
+      "list": {
+        "400": "четыреста четыре",
+        "500": "пятьсот",
+        "basic": "Базовый",
+        "cover": "Обложка"
+      }
+    },
+    "profilewidget": {
+      "profile": "Профиль",
+      "message": "Сообщения",
+      "taskboard": "Доска задач",
+      "help": "Помощь",
+      "balance": "Остаток средств :",
+      "settings": "Настройки",
+      "lockscreen": "Экран блокировки",
+      "logout": "Выйти"
+    }
+  },
+  "topbar": {
+    "component": {
+      "text": "Составные части",
+      "list": {
+        "alerts": "Оповещения",
+        "buttons": "Кнопки",
+        "cards": "Карты",
+        "dropdowns": "Выпадающие списки",
+        "lightbox": "Лайтбокс",
+        "modals": "Модальные окна",
+        "rangeslider": "Ползунок диапазона", 
+        "progressbars": "Индикаторы прогресса",
+        "sweetalerts": "Сладкое оповещение",
+        "tabs&accodions": "Табы и аккордеоны",
+        "typography": "Типография",
+        "general": "Общий",
+        "rating": "Рейтинг",
+        "notifications": "Уведомления"
+      }
+    },
+    "categories": {
+      "text": "Категории",
+      "list": {
+        "computersaccessories": "Компьютеры и аксессуары",
+        "laptopstablets": "Ноутбуки и планшеты",
+        "desktopcomputers": "Настольные компьютеры",
+        "networkingproducts": "Сетевые продукты (NAS)",
+        "monitors": "Мониторы",
+        "bags": "Сумки, чехлы и рукава",
+        "batteries": "Аккумуляторы", 
+        "charges": "Зарядки и адаптеры",
+        "smartphones": "Смартфоны и планшеты",
+        "appleiphone": "Apple iPhone",
+        "android": "Смартфоны Android",
+        "phablets": "Фаблеты",
+        "appleipad": "Apple iPad",
+        "androidtablets": "Планшеты Android",
+        "tablets": "Планшеты с клавиатурой",
+        "television": "Телевидение и видео",
+        "tv": "Телевизоры",
+        "home": "Системы домашнего кинотеатра",
+        "dvdplayers": "DVD-плееры и рекордеры",
+        "dvdvcr": "Комбинации DVD-VCR",
+        "projectors": "Проекторы",
+        "projectionscreens": "Проекционные экраны",
+        "satelite": "Спутниковое телевидение",
+        "cameras": "Камеры, фото и видео",
+        "point": "Цифровые камеры Point & Shoot",
+        "dslrcameras": "DSLR камеры",
+        "mirrorless": "Беззеркальные камеры",
+        "body": "Установленные на теле камеры",
+        "cameralenses": "Объективы для фотоаппаратов",
+        "videostudio": "Видео Студия"
+      }
+    }    
+  },
+  "menuitems": {
+    "dashboards": {
+      "text": "ПАНЕЛИ"
+    },
+    "sales": {
+      "text": "Продажи",
+      "badge": "пять"
+    },
+    "analytics": {
+      "text": "Аналитика"
+    },
+    "applications": {
+      "text": "ПРИЛОЖЕНИЯ"
+    },
+    "calendar": {
+      "text": "Календарь"
+    },
+    "chat": {
+      "text": "Чат",
+      "badge": "Горячий"
+    },
+    "kanbanboard": {
+      "text": "Канбан Доска"
+    },
+    "filemanager": {
+      "text": "Файловый менеджер"
+    },
+    "email": {
+      "text": "Электронное письмо",
+      "list": {
+        "inbox": "Входящие",
+        "reademail": "Читать электронную почту"
+      }
+    },
+    "contacts": {
+      "text": "Контакты",
+      "list": {
+        "usergrid": "Сетка пользователя",
+        "userlist": "Список пользователей",
+        "settings": "Пользовательские настройки"
+      }
+    },
+    "gallery": {
+      "text": "Галерея"
+    },
+    "projects": {
+      "text": "Проекты",
+      "list": {
+        "projectsgrid": "Сетка проекта",
+        "projectslist": "Список проектов",
+        "projectsoverview": "Обзор проекта",
+        "createnew": "Создать новое"
+      }
+    },
+    "pages": {
+      "text": "СТРАНИЦЫ"
+    },
+    "apps": {
+      "text": "Программы",
+      "list": {
+        "invoices": "Счета",
+        "invoicelist": "Список счетов",
+        "invoicedetail": "Детали счета",
+        "contacts": "Контакты",
+        "usergrid": "Сетка пользователя",
+        "userlist": "Список пользователей",
+        "profile": "Профиль"
+      }
+    },
+    "authentication": {
+      "text": "Аутентификация",
+      "badge": "девять",
+      "list": {
+        "signin": "Войти",
+        "basic": "Базовый",
+        "cover": "Обложка",
+        "signup": "Зарегистрироваться",
+        "signout": "Выход",
+        "lockscreen": "Экран блокировки",
+        "forgotpassword": "Забыли пароль",
+        "resetpwd": "Сброс пароля",
+        "emailverification": "подтверждение адреса электронной почты",
+        "twostepverification": "Двухэтапная аутентификация",
+        "thankyou": "Спасибо"
+      }
+    },
+    "errorspages": {
+      "text": "Страницы ошибок",
+      "list": {
+        "404basic": "404 Базовый",
+        "404cover": "404 Крышка",
+        "500basic": "500 Базовый",
+        "500cover": "500 Крышка"
+      }
+    },
+    "utility": {
+      "text": "Полезность",
+      "list": {
+        "starter": "Стартовая страница",
+        "profile": "Профиль",
+        "maintenance": "Обслуживание",
+        "comingsoon": "Скоро будет",
+        "faqs": "FAQs"
+      }
+    },
+    "pricing": {
+      "text": "Ценообразование",
+      "list": {
+        "basic": "Базовый",
+        "table": "Таблица"
+      }
+    },
+    "invoices": {
+      "text": "Счета",
+      "list": {
+        "invoicelist": "Список счетов",
+        "invoicedetail": "Детали счета"
+      }
+    },
+    "timeline": {
+      "text": "График",
+      "list": {
+        "centerview": "Центральный вид",
+        "leftview": "Вид слева",
+        "horizontalview": "Горизонтальный вид"
+      }
+    },
+    "components": {
+      "text": "СОСТАВНЫЕ ЧАСТИ"
+    },
+    "uielements": {
+      "text": "Элементы пользовательского интерфейса",
+      "list": {
+        "alerts": "Оповещения",
+        "buttons": "Кнопки",
+        "cards": "Карты",
+        "carousel": "Карусель",
+        "dropdowns": "Выпадающие списки",
+        "grid": "Сетка",
+        "images": "Images",
+        "modals": "Модальные окна",
+        "progressbar": "Индикаторы прогресса",
+        "tabs": "Табы и аккордеоны",
+        "typography": "Типография",
+        "video": "видео",
+        "general": "Общий",
+        "colors": "Цвета",
+        "utilities": "Утилиты"
+      }
+    },
+    "extended": {
+      "text": "Расширенный интерфейс",
+      "list": {
+        "lightbox": "Лайтбокс",
+        "rangeslider": "Ползунок диапазона",
+        "sweetalert": "SweetAlert 2",
+        "rating": "Рейтинг",
+        "notification": "Уведомления",
+        "swiperslider": "Ползунок Swiper"
+      }
+    },
+    "widgets": {
+      "text": "Виджеты"
+    },
+    "forms": {
+      "text": "Формы",
+      "list": {
+        "elements": "Основные элементы",
+        "validation": "Проверка",
+        "advanced": "Расширенный плагин",
+        "editor": "Редакторы",
+        "fileupload": "Файл загружен",
+        "wizard": "волшебник",
+        "mask": "Маска"
+      }
+    },
+    "tables": {
+      "text": "Столы",
+      "list": {
+        "basic": "Bootstrap Basic",
+        "advancedtables": "Таблицы заранее"
+      }
+    },
+    "apexcharts": {
+      "text": "Графики Apex",
+      "list": {
+        "line": "Линия",
+        "area": "Площадь",
+        "column": "Столбец",
+        "bar": "Бар",
+        "mixed": "Смешанный",
+        "timeline": "График",
+        "candlestick": "Подсвечник",
+        "boxplot": "Boxplot",
+        "bubble": "Пузырь",
+        "scatter": "Разброс",
+        "heatmap": "Тепловая карта",
+        "treemap": "Древовидная карта",
+        "pie": "Пирог",
+        "radialbar": "Радиальная полоса",
+        "radar": "Радар",
+        "polararea": "Полярная область"
+      }
+    },
+    "icons": {
+      "text": "Иконки",
+      "list": {
+        "unicons": "Unicons",
+        "feathericons": "Перо иконы",
+        "boxicons": "Боксиконы",
+        "materialdesign": "Материальный дизайн",
+        "fontawesome": "Font Awesome"
+      }
+    },
+    "maps": {
+      "text": "Карты",
+      "list": {
+        "googlemap": "Google",
+        "leaflet": "Листовка",
+        "vector": "Вектор"
+      }
+    },
+    "multilevel": {
+      "text": "Многоуровневый",
+      "list": {
+        "level1": {
+          "1": "Уровень 1.1",
+          "2": "Уровень 1.2",
+          "level2": {
+            "1": "Уровень 2.1",
+            "2": "Уровень 2.2"
+          }
+        }
+      }
+    }       
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "header": {
+    "search": "Ricerca...",
+    "mega_menu": "Menu Mega",
+    "notifications": {
+      "title": "Notifiche",
+      "view_all": "Mostra tutto",
+      "new": "Nuovo",
+      "earlier": "Prima",
+      "load_more": "Visualizza altro..",
+      "first": {
+        "title": "Il tuo ordine è stato effettuato",
+        "text": "Se più lingue uniscono la grammatica",
+        "time": "3 minuti fa"
+      },
+      "second": {
+        "title": "James Lemire",
+        "text": "Sembrerà un inglese semplificato.",
+        "time": "1 ora fa"
+      },
+      "third": {
+        "title": "Il tuo articolo viene spedito",
+        "text": "Se più lingue uniscono la grammatica",
+        "time": "3 minuti fa"
+      },
+      "four": {
+        "title": "Salena Layfield",
+        "text": "Come un mio amico occidentale scettico di Cambridge.",
+        "time": "1 ora fa"
+      }
+    },
+    "dashboards": {
+      "text": "Dashboard",
+      "list": {
+        "sales": "I saldi",
+        "analytics": "Analisi"
+      }
+    },
+    "apps": {
+      "text": "App"
+    },
+    "components": {
+      "text": "Componenti"
+    },
+    "extrapages": {
+      "text": "Pagine extra"
+    },
+    "authentication": {
+      "text": "Autenticazione",
+      "badge": "nove",
+      "list": {
+        "basic": "Di base",
+        "cover": "Coperchio",
+        "signin": "Registrazione",
+        "signup": "Iscrizione",
+        "signout": "Disconnessione",
+        "lockscreen": "Blocca schermo",
+        "forgotpassword": "Ha dimenticato la password",
+        "resetpwd": "Resetta la password",
+        "emailverification": "verifica email",
+        "twostepverification": "Verifica in 2 passaggi",
+        "thankyou": "Grazie"
+      }
+    },
+    "errorspages": {
+      "text": "Pagine di errori",
+      "list": {
+        "400": "quattro­cento­quattro",
+        "500": "cinque­cento",
+        "basic": "Di base",
+        "cover": "Coperchio"
+      }
+    },
+    "profilewidget": {
+      "profile": "Profilo",
+      "message": "Messaggi",
+      "taskboard": "Taskboard",
+      "help": "Aiuto",
+      "balance": "Bilancia :",
+      "settings": "Impostazioni",
+      "lockscreen": "Blocca schermo",
+      "logout": "Disconnettersi"
+    }
+  },
+  "topbar": {
+    "component": {
+      "text": "Componenti",
+      "list": {
+        "alerts": "Avvisi",
+        "buttons": "Avvisi",
+        "cards": "Carte",
+        "dropdowns": "menu a discesa",
+        "lightbox": "Lightbox",
+        "modals": "modali",
+        "rangeslider": "Dispositivo di scorrimento dell'intervallo", 
+        "progressbars": "Barre di avanzamento",
+        "sweetalerts": "Dolce-Allarme",
+        "tabs&accodions": "Tablature e fisarmoniche",
+        "typography": "Tipografia",
+        "general": "Generale",
+        "rating": "Valutazione",
+        "notifications": "Notifiche"
+      }
+    },
+    "categories": {
+      "text": "Categorie",
+      "list": {
+        "computersaccessories": "Computer e accessori",
+        "laptopstablets": "Computer portatili e tablet",
+        "desktopcomputers": "Computer desktop",
+        "networkingproducts": "Prodotti di rete (NAS)",
+        "monitors": "monitor",
+        "bags": "Borse, custodie e custodie",
+        "batteries": "batterie", 
+        "charges": "Addebiti e adattatori",
+        "smartphones": "Smartphone e tablet",
+        "appleiphone": "Apple iphone",
+        "android": "Smartphone Android",
+        "phablets": "Phablet",
+        "appleipad": "Apple iPad",
+        "androidtablets": "Tablet Android",
+        "tablets": "Tablet con tastiera",
+        "television": "Televisione e video",
+        "tv": "Televisori",
+        "home": "Sistemi home theater",
+        "dvdplayers": "Lettori e registratori DVD",
+        "dvdvcr": "Combo DVD-videoregistratore",
+        "projectors": "proiettori",
+        "projectionscreens": "Schermi di proiezione",
+        "satelite": "Televisione satellitare",
+        "cameras": "Fotocamere, foto e video",
+        "point": "Fotocamere digitali inquadra e scatta",
+        "dslrcameras": "Fotocamere DSLR",
+        "mirrorless": "Fotocamere Mirrorless",
+        "body": "Fotocamere montate sul corpo",
+        "cameralenses": "Obiettivi della fotocamera",
+        "videostudio": "Video Studio"
+      }
+    }    
+  },
+  "menuitems": {
+    "dashboards": {
+      "text": "cruscotti"
+    },
+    "sales": {
+      "text": "I saldi",
+      "badge": "cinque"
+    },
+    "analytics": {
+      "text": "Analisi"
+    },
+    "applications": {
+      "text": "applicazioni"
+    },
+    "calendar": {
+      "text": "Calendario"
+    },
+    "chat": {
+      "text": "Chiacchierata",
+      "badge": "piccante"
+    },
+    "kanbanboard": {
+      "text": "Tabellone Kanban"
+    },
+    "filemanager": {
+      "text": "File Manager"
+    },
+    "email": {
+      "text": "E-mail",
+      "list": {
+        "inbox": "Posta in arrivo",
+        "reademail": "Leggi e-mail"
+      }
+    },
+    "contacts": {
+      "text": "Contatti",
+      "list": {
+        "usergrid": "Griglia utente",
+        "userlist": "lista degli utenti",
+        "settings": "Impostazioni utente"
+      }
+    },
+    "gallery": {
+      "text": "Galleria"
+    },
+    "projects": {
+      "text": "Progetti",
+      "list": {
+        "projectsgrid": "Griglia di progetto",
+        "projectslist": "Elenco dei progetti",
+        "projectsoverview": "Panoramica del progetto",
+        "createnew": "Create New"
+      }
+    },
+    "pages": {
+      "text": "pagine"
+    },
+    "apps": {
+      "text": "App",
+      "list": {
+        "invoices": "Fatture",
+        "invoicelist": "Elenco fatture",
+        "invoicedetail": "Dettaglio fattura",
+        "contacts": "Contatti",
+        "usergrid": "Griglia utente",
+        "userlist": "lista degli utenti",
+        "profile": "Profilo"
+      }
+    },
+    "authentication": {
+      "text": "Autenticazione",
+      "badge": "nove",
+      "list": {
+        "signin": "Registrazione",
+        "basic": "Di base",
+        "cover": "Coperchio",
+        "signup": "Iscrizione",
+        "signout": "Disconnessione",
+        "lockscreen": "Blocca schermo",
+        "forgotpassword": "Ha dimenticato la password",
+        "resetpwd": "Resetta la password",
+        "emailverification": "verifica email",
+        "twostepverification": "Verifica in 2 passaggi",
+        "thankyou": "Grazie"
+      }
+    },
+    "errorspages": {
+      "text": "Pagine di errori",
+      "list": {
+        "404basic": "404 di base",
+        "404cover": "404 Copertina",
+        "500basic": "500 di base",
+        "500cover": "500 Coperchio"
+      }
+    },
+    "utility": {
+      "text": "Utilità",
+      "list": {
+        "starter": "Pagina iniziale",
+        "profile": "Profilo",
+        "maintenance": "Manutenzione",
+        "comingsoon": "Prossimamente",
+        "faqs": "FAQ"
+      }
+    },
+    "pricing": {
+      "text": "Prezzi",
+      "list": {
+        "basic": "Di base",
+        "table": "Tavolo"
+      }
+    },
+    "invoices": {
+      "text": "Fatture",
+      "list": {
+        "invoicelist": "Elenco fatture",
+        "invoicedetail": "Dettaglio fattura"
+      }
+    },
+    "timeline": {
+      "text": "Sequenza temporale",
+      "list": {
+        "centerview": "Vista centrale",
+        "leftview": "Vista a sinistra",
+        "horizontalview": "Vista orizzontale"
+      }
+    },
+    "components": {
+      "text": "componenti"
+    },
+    "uielements": {
+      "text": "Elementi dell'interfaccia utente",
+      "list": {
+        "alerts": "Avvisi",
+        "buttons": "pulsanti",
+        "cards": "Carte",
+        "carousel": "Giostra",
+        "dropdowns": "menu a discesa",
+        "grid": "Griglia",
+        "images": "immagini",
+        "modals": "modali",
+        "progressbar": "Barre di avanzamento",
+        "tabs": "Tablature e fisarmoniche",
+        "typography": "Tipografia",
+        "video": "video",
+        "general": "Generale",
+        "colors": "Colori",
+        "utilities": "Utilità"
+      }
+    },
+    "extended": {
+      "text": "Interfaccia utente estesa",
+      "list": {
+        "lightbox": "Lightbox",
+        "rangeslider": "Dispositivo di scorrimento dell'intervallo",
+        "sweetalert": "SweetAlert 2",
+        "rating": "Valutazione",
+        "notification": "Notifiche",
+        "swiperslider": "Swiper Slider"
+      }
+    },
+    "widgets": {
+      "text": "Widget"
+    },
+    "forms": {
+      "text": "Forme",
+      "list": {
+        "elements": "Elementi basici",
+        "validation": "Convalida",
+        "advanced": "Plugin avanzato",
+        "editor": "Editori",
+        "fileupload": "Upload di file",
+        "wizard": "procedura guidata",
+        "mask": "Maschera"
+      }
+    },
+    "tables": {
+      "text": "Tabelle",
+      "list": {
+        "basic": "Bootstrap di base",
+        "advancedtables": "Tabelle avanzate"
+      }
+    },
+    "apexcharts": {
+      "text": "Grafici Apex",
+      "list": {
+        "line": "Linea",
+        "area": "La zona",
+        "column": "Colonna",
+        "bar": "Sbarra",
+        "mixed": "Misto",
+        "timeline": "Sequenza temporale",
+        "candlestick": "Candeliere",
+        "boxplot": "trama a scatole",
+        "bubble": "Bolla",
+        "scatter": "dispersione",
+        "heatmap": "Mappa di calore",
+        "treemap": "Mappa ad albero",
+        "pie": "Torta",
+        "radialbar": "barra radiale",
+        "radar": "Radar",
+        "polararea": "Polararea"
+      }
+    },
+    "icons": {
+      "text": "Icone",
+      "list": {
+        "unicons": "Unicon",
+        "feathericons": "Icone di piume",
+        "boxicons": "Boxicon",
+        "materialdesign": "Design dei materiali",
+        "fontawesome": "Carattere fantastico"
+      }
+    },
+    "maps": {
+      "text": "Mappe",
+      "list": {
+        "googlemap": "Google",
+        "leaflet": "Volantino",
+        "vector": "Vettore"
+      }
+    },
+    "multilevel": {
+      "text": "Multi livello",
+      "list": {
+        "level1": {
+          "1": "Livello 1.1",
+          "2": "Livello 1.2",
+          "level2": {
+            "1": "Livello 2.1",
+            "2": "Livello 2.2"
+          }
+        }
+      }
+    }      
+  }
+}

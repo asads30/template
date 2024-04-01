@@ -1,0 +1,10 @@
+//
+// leaflet-maps.scss
+//
+
+.leaflet-map {
+    height: 250px;
+    &.leaflet-container{
+        z-index: 99;
+    }
+}

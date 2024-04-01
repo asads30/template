@@ -1,0 +1,15 @@
+//
+// vector-maps.scss
+//
+
+.jvm-tooltip {
+    border-radius: 3px;
+    background-color: $primary;
+    font-family: $font-family-base;
+    box-shadow: $box-shadow-lg;
+    padding: 3px 5px;
+}
+
+.jvm-container {
+    width: 100% !important;
+}
